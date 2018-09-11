@@ -1,0 +1,15 @@
+{
+    "title": "Arctic Fox Tech Wiki",
+    "description": "",
+    "isbn": "",
+    "language": "en",
+    "direction": "ltr",
+    "plugins" : [ 
+        "anchor-navigation" 
+    ],
+    "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "mode": "float"
+        }
+    }
+}
