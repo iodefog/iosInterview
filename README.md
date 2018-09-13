@@ -15,3 +15,7 @@ To make compicated things simplified.（复杂问题简单化。） —— Jeff 
 温水煮青蛙。
 
 ![](assets/company/2017_it_company_rank.jpeg "2017 Company Rank")
+
+
+本地使用或者启动：
+gitbook serve
