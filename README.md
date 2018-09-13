@@ -1,4 +1,4 @@
-**2018KEYWORD:空杯，进化，落地。**
+## 2018KEYWORD:空杯，进化，落地。
 
 危险总是存在的，但恐惧只是一种选择。
 
@@ -14,11 +14,35 @@ To make compicated things simplified.（复杂问题简单化。） —— Jeff 
 
 温水煮青蛙。
 
-![](assets/company/2017_it_company_rank.jpeg "2017 Company Rank")
+---
 
-
-本地使用或者启动：
+**本地使用或者启动：**
 
 ```
 gitbook serve
+
+// 导出pdf
+gitbook pdf .
+gitbook pdf
+
+// 导出mobi
+gitbook mobi .
+gitbook mobi
 ```
+
+如果报错：
+
+```
+InstallRequiredError: "ebook-convert" is not installed.
+Install it from Calibre: https://calibre-ebook.com
+```
+
+解决：
+
+**需要安装：**
+
+[https://download.calibre-ebook.com/3.31.0/calibre-3.31.0.dmg](https://download.calibre-ebook.com/3.31.0/calibre-3.31.0.dmg)
+
+----
+
+![](./resource/2017_it_company_rank.jpeg "2017 Company Rank")
