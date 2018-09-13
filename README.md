@@ -43,6 +43,11 @@ Install it from Calibre: https://calibre-ebook.com
 
 [https://download.calibre-ebook.com/3.31.0/calibre-3.31.0.dmg](https://download.calibre-ebook.com/3.31.0/calibre-3.31.0.dmg)
 
+```
+ln -s /Applications/calibre.app/Contents/MacOS/ebook-convert /usr/local/bin
+
+```
+
 ----
 
 ![](./resource/2017_it_company_rank.jpeg "2017 Company Rank")
