@@ -1,4 +1,4 @@
-## 2018KEYWORD:空杯，进化，落地。
+## 2018 KEY WORD:空杯，进化，落地。
 
 危险总是存在的，但恐惧只是一种选择。
 
@@ -13,6 +13,10 @@ To make compicated things simplified.（复杂问题简单化。） —— Jeff 
 程序员薪资组成：公司职级，技术壁垒，面试结果，稀缺程度，Offer竞争。
 
 温水煮青蛙。
+
+----
+
+![](./resource/2017_it_company_rank.jpeg "2017 Company Rank")
 
 ---
 
@@ -33,7 +37,7 @@ npm install gitbook -g
 
 ```
 
-3.启动 gitbook
+3.切换到项目目录下，启动 gitbook
 
 ```
 gitbook serve
@@ -75,6 +79,3 @@ ln -s /Applications/calibre.app/Contents/MacOS/ebook-convert /usr/local/bin
 
 ```
 
-----
-
-![](./resource/2017_it_company_rank.jpeg "2017 Company Rank")
