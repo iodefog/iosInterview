@@ -18,15 +18,41 @@ To make compicated things simplified.（复杂问题简单化。） —— Jeff 
 
 **本地使用或者启动：**
 
+1.安装npm
+
+```
+brew install node
+brew install npm
+
+```
+
+2.安装gitbook
+
+```
+npm install gitbook -g
+
+```
+
+3.启动 gitbook
+
 ```
 gitbook serve
 
+// 启动后会提示在浏览器里打开 http://localhost:4000
+
+```
+
+4.可导出pdf或者mobi格式（可以不导出）
+
+```
 // 导出pdf
 gitbook pdf .
+
 gitbook pdf
 
 // 导出mobi
 gitbook mobi .
+
 gitbook mobi
 ```
 

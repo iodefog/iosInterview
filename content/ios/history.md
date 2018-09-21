@@ -172,7 +172,29 @@
 2.)追问，在A View 上add B view，B view的frame 在A的外面，点击会如何。
 
 
+--- 
 
+### 他人记录
+
+百度
+
+两个有序数组合并
+
+Word字符串倒序
+
+反转字符串
+
+runtime 
+
+runloop 
+
+内存管理
+
+安全传输机制 
+
+https
+
+keychain用法
 
 ----
 
@@ -225,3 +247,17 @@
 写完后
 面试官：小伙子不错，我考虑考虑，你先回去吧
 ```
+
+
+---
+
+## 其他人记录
+
+---
+
+![](../../resource/image/WechatIMG175.png)
+![](../../resource/image/WechatIMG177.png)
+![](../../resource/image/WechatIMG178.png)
+![](../../resource/image/WechatIMG179.png)
+![](../../resource/image/WechatIMG180.png)
+
